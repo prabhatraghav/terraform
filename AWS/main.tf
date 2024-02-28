@@ -1,4 +1,4 @@
-# ***************************** ENVIRONMENT VARIABLES EDITING : BEGINS *************************************************
+# ***************************** EDITING : BEGINS - ENVIRONMENT VARIABLES *************************************************
 
 # Define Environmental Variables
 variable "aws_access_key" { default = "PASTE YOUR AWS A/c ACCESS-KEY" }                     # AWS a/c access-key-ID (Change this with your keys)
