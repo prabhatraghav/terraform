@@ -3,12 +3,13 @@
 Place both the files "main.tf" and "AWS_PRIVATE_KEY.pem" in the same folder/directory.
 
 Necessary terraform commands:
-1. <terraform init>                     -- initiate the terraform in the directory
-2. terraform fmt                      -- checks for the syntactical errors in the *.tf file
-3. terraform validate                 -- checks for the error in the code
-4. terraform plan                     -- plan your infra resources
-5. terraform apply --auto-approve     -- apply the code to create resources
-6. terraform destroy --auto-approve   -- destroy the applied resourses
+1. To initiate the terraform in the directory
+     terraform init
+3. terraform fmt                      -- checks for the syntactical errors in the *.tf file
+4. terraform validate                 -- checks for the error in the code
+5. terraform plan                     -- plan your infra resources
+6. terraform apply --auto-approve     -- apply the code to create resources
+7. terraform destroy --auto-approve   -- destroy the applied resourses
 
 # 1. Creating Access-Key and Secret-Key Pair
 ![1](https://github.com/prabhatraghav/terraform/assets/156128444/8e6cd1b4-333e-4829-b924-4c15d3a46d0d)
