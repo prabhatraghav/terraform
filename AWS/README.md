@@ -1,8 +1,7 @@
-# Please read the COMMENTS provided within the "main.tf" file for the better understanding of the code.
-
+Please read the COMMENTS provided within the "main.tf" file for the better understanding of the code.
 Place both the files "main.tf" and "AWS_PRIVATE_KEY.pem" in the same folder/directory.
 
-Necessary terraform commands:
+# Necessary terraform commands:
 1. To initiate the terraform in the directory
 
           terraform init
