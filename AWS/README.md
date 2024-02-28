@@ -5,6 +5,7 @@ Place both the files "main.tf" and "AWS_PRIVATE_KEY.pem" in the same folder/dire
 Necessary terraform commands:
 1. To initiate the terraform in the directory
      terraform init
+
 3. terraform fmt                      -- checks for the syntactical errors in the *.tf file
 4. terraform validate                 -- checks for the error in the code
 5. terraform plan                     -- plan your infra resources
