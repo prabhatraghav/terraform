@@ -1,5 +1,3 @@
-[![Terraform](https://github.com/prabhatraghav/terraform/actions/workflows/terraform.yml/badge.svg)](https://github.com/prabhatraghav/terraform/actions/workflows/terraform.yml)
-
 # Please read the COMMENTS provided within the "main.tf" file for the better understanding of the code.
 
 # 1. Creating Access-Key and Secret-Key Pair
